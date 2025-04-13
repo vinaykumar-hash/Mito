@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513006108217",
+    "project_id": "mito-42b72",
+    "storage_bucket": "mito-42b72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513006108217:android:c96bc295e37817423a57e8",
+        "android_client_info": {
+          "package_name": "com.anonymous.savy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMGL2BzOFt3u_bKjr_XRJL62Ki7j3ask"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
