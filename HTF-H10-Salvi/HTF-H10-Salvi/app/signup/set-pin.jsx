@@ -5,7 +5,7 @@ import { useUser } from '../../context/UserContext';
 import messaging from "@react-native-firebase/messaging";
 import * as Notifications from 'expo-notifications';
 
-const baseURL = "https://00e7-2409-40f2-3148-e1d8-3c04-e640-cdcd-15cc.ngrok-free.app/";
+const baseURL = "https://2892-103-246-193-34.ngrok-free.app/";
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({

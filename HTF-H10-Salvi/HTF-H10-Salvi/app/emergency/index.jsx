@@ -17,7 +17,7 @@ export default function EmergencyAlertScreen() {
 
     for (const contact of contacts) {
         try {
-            await axios.post('https://00e7-2409-40f2-3148-e1d8-3c04-e640-cdcd-15cc.ngrok-free.app/emergency', { test: true });
+            await axios.post('https://2892-103-246-193-34.ngrok-free.app/emergency', { test: true });
             Alert.alert('🚨 Alert Sent', `Notification sent to ${contact.name}`);
           } catch (error) {
             console.log('❌ Error sending alert:', error.message);
